@@ -4,3 +4,5 @@
 
 # Conventional directory for build output.
 build/
+assets/apikey.txt
+assets/token.txt
